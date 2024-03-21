@@ -3,7 +3,7 @@
 ## TL;DR
 
 ```bash
-cookiecutter gh:a1d4r/python-package-template --checkout master
+cookiecutter gh:mrwegs/python-package-template --checkout master
 ```
 
 ## Features
